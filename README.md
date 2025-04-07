@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an **Aspiring Machine Learning Engineer** and **Full S
 - **Programming Languages**: Python, C, C++, Java, JavaScript  
 - **Web Development**: HTML, CSS, JavaScript  
 - **Databases**: MongoDB, MySQL  
-- **Tools & Platforms**: Git, VSCode, Jupyter Notebook, Pandas  
+- **Tools & Platforms**: Git, VSCode, Cursor, Jupyter Notebook, Pandas  
 
 ---
 
