@@ -1,6 +1,6 @@
 # Hi, I'm Yogendiran S P 👋  
 
-Welcome to my GitHub! I'm an **Aspiring Machine Learning Engineer** and **Web Development Enthusiast** passionate about building impactful AI-powered solutions and user-centric web applications.  
+Welcome to my GitHub! I'm an **Aspiring Machine Learning Engineer** and **Full Stack Web App Development Enthusiast** passionate about building impactful AI-powered solutions and user-centric web applications.  
 
 ---
 
