@@ -1,6 +1,6 @@
 # Hi, I'm Yogendiran S P 👋  
 
-Welcome to my GitHub! I'm an **Aspiring Machine Learning Engineer** and **Full Stack Web App Development Enthusiast** passionate about building impactful AI-powered solutions and user-centric web applications.  
+Welcome to my GitHub! I'm an **Aspiring AI Enthusiast** and **Full Stack Web App Development Enthusiast** passionate about building impactful AI-powered solutions and user-centric web applications.  
 
 ---
 
@@ -11,10 +11,11 @@ Welcome to my GitHub! I'm an **Aspiring Machine Learning Engineer** and **Full S
 ---
 
 ## 🛠️ Skills & Expertise  
-- **Programming Languages**: Python, C, C++, Java, JavaScript  
+- **Programming Languages**: Python, C, Java
 - **Web Development**: HTML, CSS, JavaScript  
-- **Databases**: MongoDB, MySQL  
-- **Tools & Platforms**: Git, VSCode, Cursor, Jupyter Notebook, Pandas  
+- **Frameworks**: Pandas, Numpy, Scikit-Learn 
+- **Tools & Platforms**: Git, VSCode, Cursor, Jupyter Notebook
+- - **Databases**: MongoDB, MySQL  
 
 ---
 
