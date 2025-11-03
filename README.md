@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm an **Aspiring AI Enthusiast** and **Full Stack Web App
 - **Web Development**: HTML, CSS, JavaScript  
 - **Frameworks**: Pandas, Numpy, Scikit-Learn 
 - **Tools & Platforms**: Git, VSCode, Cursor, Jupyter Notebook
-- - **Databases**: MongoDB, MySQL  
+- **Databases**: MongoDB, MySQL  
 
 ---
 
